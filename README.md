@@ -1,4 +1,4 @@
-No sé que escribir en el "README.md" xD pero quiero guardar mis proyectos aquí, así que quiero que se vea shido;3 <br>
+Quiero guardar mis archivos aquí como un hosting (creo que ese es el proposito de "GitHub" xD) Así poder mover mis archivos más facil. <br>
 
 ─────▄█▀█▄──▄███▄────❤ <br>
 ────▐█░██████████▌──── <br>
