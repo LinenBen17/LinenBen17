@@ -1,12 +1,19 @@
-Quiero guardar mis archivos aquí como un hosting (creo que ese es el proposito de "GitHub" xD) Así poder mover mis archivos más facil. <br>
+## ¡Hola, soy Linen! 👋
 
-─────▄█▀█▄──▄███▄────❤ <br>
-────▐█░██████████▌──── <br>
-─────████Maincra███───── <br>
-──────▀████████▀────── <br>
-─────────▀██▀───────── <br>
+### Acerca de mí
+Soy un apasionado de la programación y la tecnología. Me especializo en la creación de sitios webs, sobre todo en el frontend pero el backend también se me da muchísimo. Disfruto creando soluciones innovadoras y aprendiendo constantemente sobre nuevas tecnologías.
 
-<!---
-LinenBen17/LinenBen17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Experiencia y Educación
+- Desarrollador web en Trans JR Guatemala: Me encargué de la creación total de todo el sitio, desde frontend hasta backend. Ayudé en la creación de un sistema login y diferentes crud con manejos SQL.
+- Ingeniería en Sistemas(En curso): Actualmente estoy cursando mi Ingeniaría en Sistemas, donde estoy adquiriendo conocimientos en programación, bases de datos y seguridad informática.
+- Cursos sobre desarrollo web: He seguido bastantes cursos de manera autodidacta en platzi, udemy donde he obtenido diferentes certificados.
+  
+### Habilidades
+- Lenguajes de programación: JavaScript, PHP, Python, HTML, CSS3
+- Frameworks y herramientas: Bootstrap, Jquery, librearías JS, Laravel
+
+### Contacto
+- Correo electrónico: aesquitecastillo@gmail.com
+- Sitio web personal: https://linenben17.github.io/
+
+No es mucho, pero sigo en constante aprendizaje y cada vez me ánimo a trabajar en más y más proyectos. Bye<3.
