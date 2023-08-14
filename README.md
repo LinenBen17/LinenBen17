@@ -5,16 +5,15 @@ Soy un apasionado de la programación y la tecnología. Me especializo en la cre
 
 ### Experiencia y Educación
 - Desarrollador web en Trans JR Guatemala: Me encargué de la creación total de todo el sitio, desde frontend hasta backend. Ayudé en la creación de un sistema login y diferentes crud con manejos SQL.
-- Ingeniería en Sistemas(En curso): Actualmente estoy cursando mi Ingeniaría en Sistemas, donde estoy adquiriendo conocimientos en programación, bases de datos y seguridad informática.
+- Ingeniería en Sistemas: Voy camino a la carrera de Ingeniería en Sistemas donde espero aprender más tecnologías y poner en práctica lo que sé.
 - Cursos sobre desarrollo web: He seguido bastantes cursos de manera autodidacta en platzi, udemy donde he obtenido diferentes certificados.
   
 ### Habilidades
 - Lenguajes de programación: JavaScript, PHP, Python, HTML, CSS3
-- Frameworks y herramientas: Bootstrap, Jquery, librearías JS, Laravel
+- Frameworks y herramientas: Bootstrap, Jquery, librearías JS
 
 ### Contacto
 - Correo electrónico: aesquitecastillo@gmail.com
-- Sitio web personal: https://linenben17.github.io/
-- Número de Teléfono y Whatsapp: +502 5940-9178
+- Número de Teléfono y Whatsapp: +502 5941-7795
 
 No es mucho, pero sigo en constante aprendizaje y cada vez me ánimo a trabajar en más y más proyectos. Bye<3.
